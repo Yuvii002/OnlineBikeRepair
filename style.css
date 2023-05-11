@@ -20,7 +20,7 @@ background-position: center;
 header{
 /*background-color: rgb(89, 135, 21);*/
 display: flex;
-min-height: 100px;
+min-height: 99px;
 justify-content: space-between;
 align-items: center;
 padding-top: 20px;
